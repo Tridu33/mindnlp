@@ -1,5 +1,4 @@
-:::mindnlp.transformers.models.convbert.convbert
-:::mindnlp.transformers.models.convbert.convbert_config
-:::mindnlp.transformers.models.convbert.convbert_tokenizer
-:::mindnlp.transformers.models.convbert.convbert_tokenizer_fast
-:::mindnlp.transformers.models.convbert.graph_convbert.MSConvBertForQuestionAnswering
+:::mindnlp.transformers.models.convbert.configuration_convbert
+:::mindnlp.transformers.models.convbert.modeling_convbert
+:::mindnlp.transformers.models.convbert.tokenization_convbert
+:::mindnlp.transformers.models.convbert.tokenization_convbert_fast

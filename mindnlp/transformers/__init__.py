@@ -23,8 +23,9 @@ from .image_processing_utils import ImageProcessingMixin
 from .tokenization_utils_base import PreTrainedTokenizerBase, SpecialTokensMixin
 from .tokenization_utils import PreTrainedTokenizer
 from .tokenization_utils_fast import PreTrainedTokenizerFast
+from .data.data_collator import DataCollatorForSeq2Seq
 
 __all__ = ['PretrainedConfig', 'PreTrainedModel', 'PreTrainedTokenizerBase', 'ImageProcessingMixin',
-           'SpecialTokensMixin', 'PreTrainedTokenizer', 'PreTrainedTokenizerFast']
+           'SpecialTokensMixin', 'PreTrainedTokenizer', 'PreTrainedTokenizerFast', 'DataCollatorForSeq2Seq']
 __all__.extend(models.__all__)
 __all__.extend(pipelines.__all__)

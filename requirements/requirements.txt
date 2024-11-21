@@ -12,7 +12,7 @@ jinja2
 sacremoses
 librosa
 soundfile
-tokenizers
+tokenizers==0.20.0
 addict
 safetensors
 ml_dtypes

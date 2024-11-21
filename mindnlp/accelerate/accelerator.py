@@ -104,7 +104,7 @@ class Accelerator:
         """
         result = []
 
-        # Only support mindsormers now
+        # Only support mindsormers now ??????????????????????????到底是否需要往下抄/home/tridu33/.conda/envs/openmind-ms/lib/python3.9/site-packages/accelerate/accelerator.py  1471行 torch.nn.parallel.DistributedDataParallel 改为 mindspore.nn.DistributedGradReducer
         if self.distributed_type == DistributedType.MINDFORMERS:
             result = self._prepare_mindformers(*args)
 

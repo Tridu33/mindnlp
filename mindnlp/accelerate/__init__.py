@@ -4,7 +4,7 @@ from .utils import (
     # DataLoaderConfiguration,
     # DDPCommunicationHookType,
     # DeepSpeedPlugin,
-    # DistributedDataParallelKwargs,
+    DistributedDataParallelKwargs,
     # DistributedType,
     # FullyShardedDataParallelPlugin,
     # GradScalerKwargs,
@@ -16,3 +16,4 @@ from .utils import (
     # load_checkpoint_in_model,
     # synchronize_rng_states,
 )
+from .accelerator import Accelerator

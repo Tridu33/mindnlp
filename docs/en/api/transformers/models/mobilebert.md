@@ -1,3 +1,3 @@
-:::mindnlp.transformers.models.mobilebert.mobilebert
-:::mindnlp.transformers.models.mobilebert.mobilebert_config
-:::mindnlp.transformers.models.mobilebert.mobilebert_tokenizer
+:::mindnlp.transformers.models.mobilebert.configuration_mobilebert
+:::mindnlp.transformers.models.mobilebert.modeling_mobilebert
+:::mindnlp.transformers.models.mobilebert.tokenization_mobilebert

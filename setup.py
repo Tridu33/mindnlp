@@ -121,7 +121,7 @@ setup(
         'requests',
         'datasets', # hf dependency
         'evaluate', # hf dependency
-        'tokenizers==0.19.1', # hf dependency
+        'tokenizers==0.20.0', # hf dependency
         'safetensors', # hf dependency
         'sentencepiece',
         'regex',

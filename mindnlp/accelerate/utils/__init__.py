@@ -1,5 +1,6 @@
 """accelerate utils"""
 from .dataclasses import (
+    DistributedDataParallelKwargs,
     DistributedType,
     MindFormersPlugin
 )

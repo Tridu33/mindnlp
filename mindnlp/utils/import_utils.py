@@ -70,6 +70,7 @@ def _is_package_available(
         return package_exists, package_version
     return package_exists
 
+ACCELERATE_MIN_VERSION = "0.26.0"
 
 _ftfy_available = _is_package_available("ftfy")
 _einops_available = _is_package_available('einops')
@@ -87,6 +88,7 @@ _jieba_available = _is_package_available("jieba")
 _pytesseract_available = _is_package_available("pytesseract")
 _g2p_en_available = _is_package_available("g2p_en")
 _phonemizer_available = _is_package_available("phonemizer")
+_accelerate_available, _accelerate_version = _is_package_available("accelerate", return_version=True)
 _mindspore_version, _mindspore_available = _is_package_available(
     "mindspore", return_version=True
 )
@@ -439,6 +441,10 @@ def is_tiktoken_available():
 
 def is_phonemizer_available():
     return _phonemizer_available
+
+
+def is_accelerate_available(min_version: str = ACCELERATE_MIN_VERSION):
+    return _accelerate_available and version.parse(_accelerate_version) >= version.parse(min_version)
 
 
 @lru_cache()
