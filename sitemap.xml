@@ -1,0 +1,3139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+    </url>
+    <url>
+        <loc>Nonecontribute/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontribute/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contribute/"/>
+    </url>
+    <url>
+        <loc>Nonequick_start/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonequick_start/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/quick_start/"/>
+    </url>
+    <url>
+        <loc>Nonesupported_models/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesupported_models/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/supported_models/"/>
+    </url>
+    <url>
+        <loc>Noneapi/accelerate/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/accelerate/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/accelerate/"/>
+    </url>
+    <url>
+        <loc>Noneapi/data/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/data/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/data/"/>
+    </url>
+    <url>
+        <loc>Noneapi/dataset/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/"/>
+    </url>
+    <url>
+        <loc>Noneapi/modules/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/modules/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/modules/"/>
+    </url>
+    <url>
+        <loc>Noneapi/parallel/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/parallel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/parallel/"/>
+    </url>
+    <url>
+        <loc>Noneapi/sentence/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/sentence/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/sentence/"/>
+    </url>
+    <url>
+        <loc>Noneapi/trl/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/trl/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/trl/"/>
+    </url>
+    <url>
+        <loc>Noneapi/utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/utils/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/utils/"/>
+    </url>
+    <url>
+        <loc>Noneapi/dataset/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/"/>
+    </url>
+    <url>
+        <loc>Noneapi/dataset/BaseMapFunction/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/BaseMapFunction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/BaseMapFunction/"/>
+    </url>
+    <url>
+        <loc>Noneapi/dataset/load_dataset/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/load_dataset/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/load_dataset/"/>
+    </url>
+    <url>
+        <loc>Noneapi/dataset/transforms/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/transforms/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/transforms/"/>
+    </url>
+    <url>
+        <loc>Noneapi/engine/callbacks/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/callbacks/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/callbacks/"/>
+    </url>
+    <url>
+        <loc>Noneapi/engine/export/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/export/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/export/"/>
+    </url>
+    <url>
+        <loc>Noneapi/engine/utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/utils/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/utils/"/>
+    </url>
+    <url>
+        <loc>Noneapi/engine/train_args/base/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/train_args/base/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/train_args/base/"/>
+    </url>
+    <url>
+        <loc>Noneapi/engine/train_args/seq2seq/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/train_args/seq2seq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/train_args/seq2seq/"/>
+    </url>
+    <url>
+        <loc>Noneapi/engine/trainer/base/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/trainer/base/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/trainer/base/"/>
+    </url>
+    <url>
+        <loc>Noneapi/engine/trainer/default_func/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/trainer/default_func/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/trainer/default_func/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/config/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/config/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/config/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/mapping/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/mapping/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/mapping/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/peft_model/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/peft_model/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/peft_model/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/tuners/adalora/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/adalora/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/adalora/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/tuners/adaption_prompt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/adaption_prompt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/adaption_prompt/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/tuners/ia3/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/ia3/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/ia3/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/tuners/lokr/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/lokr/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/lokr/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/tuners/lora/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/lora/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/lora/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/tuners/prompt_tuning/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/prompt_tuning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/prompt_tuning/"/>
+    </url>
+    <url>
+        <loc>Noneapi/peft/utils/merge_utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/utils/merge_utils/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/utils/merge_utils/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/configuration_utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/configuration_utils/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/configuration_utils/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/modeling_utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/modeling_utils/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/modeling_utils/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/tokenization_utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/tokenization_utils/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/tokenization_utils/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/tokenization_utils_base/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/tokenization_utils_base/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/tokenization_utils_base/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/tokenization_utils_fast/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/tokenization_utils_fast/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/tokenization_utils_fast/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/generation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/generation/beam_constraints/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/beam_constraints/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/beam_constraints/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/generation/beam_search/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/beam_search/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/beam_search/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/generation/logits_process/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/logits_process/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/logits_process/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/generation/stopping_criteria/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/stopping_criteria/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/stopping_criteria/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/generation/streamers/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/streamers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/streamers/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/generation/utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/utils/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/utils/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/albert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/albert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/albert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/align/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/align/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/align/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/altclip/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/altclip/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/altclip/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/audio_spectrogram_transformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/audio_spectrogram_transformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/audio_spectrogram_transformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/auto/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/auto/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/auto/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/autoformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/autoformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/autoformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/baichuan/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/baichuan/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/baichuan/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bark/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bark/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bark/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bart/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bart/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bart/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/barthez/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/barthez/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/barthez/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bartpho/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bartpho/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bartpho/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/beit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/beit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/beit/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bert_generation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bert_generation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bert_generation/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bert_japanese/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bert_japanese/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bert_japanese/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bertweet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bertweet/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bertweet/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bge_m3/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bge_m3/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bge_m3/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/big_bird/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/big_bird/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/big_bird/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bigbird_pegasus/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bigbird_pegasus/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bigbird_pegasus/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/biogpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/biogpt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/biogpt/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bit/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/blenderbot/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/blenderbot/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/blenderbot/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/blenderbot_small/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/blenderbot_small/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/blenderbot_small/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/blip/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/blip/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/blip/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/blip_2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/blip_2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/blip_2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bloom/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bloom/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bloom/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bridgetower/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bridgetower/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bridgetower/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/bros/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bros/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bros/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/byt5/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/byt5/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/byt5/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/camembert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/camembert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/camembert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/canine/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/canine/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/canine/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/chatglm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/chatglm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/chatglm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/chatglm2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/chatglm2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/chatglm2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/chatglm3/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/chatglm3/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/chatglm3/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/clip/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/clip/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/clip/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/codegen/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/codegen/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/codegen/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/cogvlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cogvlm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cogvlm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/cohere/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cohere/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cohere/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/convbert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/convbert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/convbert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/convnext/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/convnext/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/convnext/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/cpm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cpm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cpm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/cpmant/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cpmant/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cpmant/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/cpmbee/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cpmbee/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cpmbee/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/ctrl/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/ctrl/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/ctrl/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/cvt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cvt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cvt/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/data2vec/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/data2vec/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/data2vec/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/deberta/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/deberta/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/deberta/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/deberta_v2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/deberta_v2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/deberta_v2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/decision_transformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/decision_transformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/decision_transformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/distilbert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/distilbert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/distilbert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/efficientformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/efficientformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/efficientformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/efficientnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/efficientnet/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/efficientnet/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/electra/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/electra/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/electra/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/encodec/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/encodec/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/encodec/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/ernie/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/ernie/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/ernie/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/ernie_m/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/ernie_m/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/ernie_m/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/esm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/esm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/esm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/falcon/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/falcon/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/falcon/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/flava/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/flava/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/flava/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/funnel/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/funnel/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/funnel/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/gemma/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gemma/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gemma/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/git/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/git/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/gpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/gpt2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/gpt_bigcode/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_bigcode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_bigcode/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/gpt_neo/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_neo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_neo/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/gpt_neox/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_neox/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_neox/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/gpt_neox_japanese/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_neox_japanese/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_neox_japanese/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/gpt_pangu/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_pangu/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_pangu/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/gptj/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gptj/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gptj/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/graphormer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/graphormer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/graphormer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/groupvit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/groupvit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/groupvit/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/hubert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/hubert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/hubert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/imagegpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/imagegpt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/imagegpt/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/internlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/internlm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/internlm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/jamba/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/jamba/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/jamba/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/jetmoe/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/jetmoe/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/jetmoe/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/layoutlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/layoutlm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/layoutlm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/layoutlmv2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/layoutlmv2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/layoutlmv2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/led/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/led/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/led/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/llama/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/llama/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/llama/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/llava/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/llava/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/llava/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/llava_next/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/llava_next/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/llava_next/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/longformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/longformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/longformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/longt5/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/longt5/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/longt5/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/luke/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/luke/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/luke/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mamba/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mamba/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mamba/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/marian/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/marian/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/marian/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/maskformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/maskformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/maskformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mbart/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mbart/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mbart/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/megatron_bert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/megatron_bert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/megatron_bert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/megatron_gpt2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/megatron_gpt2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/megatron_gpt2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/minicpm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/minicpm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/minicpm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/minigpt4/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/minigpt4/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/minigpt4/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mistral/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mistral/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mistral/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mixtral/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mixtral/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mixtral/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mobilebert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mobilebert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mobilebert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mobilevit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mobilevit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mobilevit/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/moss/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/moss/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/moss/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mpnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mpnet/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mpnet/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mpt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mpt/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mt5/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mt5/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mt5/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/musicgen/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/musicgen/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/musicgen/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/musicgen_melody/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/musicgen_melody/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/musicgen_melody/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/mvp/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mvp/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mvp/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/nezha/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/nezha/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/nezha/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/nystromformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/nystromformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/nystromformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/olmo/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/olmo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/olmo/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/openelm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/openelm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/openelm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/opt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/opt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/opt/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/owlvit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/owlvit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/owlvit/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/pegasus/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/pegasus/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/pegasus/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/phi/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/phi/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/phi/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/phi3/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/phi3/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/phi3/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/poolformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/poolformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/poolformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/pop2piano/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/pop2piano/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/pop2piano/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/qwen2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/qwen2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/qwen2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/qwen2_moe/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/qwen2_moe/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/qwen2_moe/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/reformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/reformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/reformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/regnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/regnet/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/regnet/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/rembert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/rembert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/rembert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/resnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/resnet/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/resnet/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/roberta/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/roberta/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/roberta/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/roc_bert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/roc_bert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/roc_bert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/rwkv/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/rwkv/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/rwkv/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/sam/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/sam/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/sam/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/seamless_m4t/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/seamless_m4t/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/seamless_m4t/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/seamless_m4t_v2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/seamless_m4t_v2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/seamless_m4t_v2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/segformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/segformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/segformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/seggpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/seggpt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/seggpt/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/speech_encoder_decoder/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/speech_encoder_decoder/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/speech_encoder_decoder/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/speech_to_text/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/speech_to_text/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/speech_to_text/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/squeezebert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/squeezebert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/squeezebert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/stablelm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/stablelm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/stablelm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/starcoder2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/starcoder2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/starcoder2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/swiftformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/swiftformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/swiftformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/switch_transformers/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/switch_transformers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/switch_transformers/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/t5/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/t5/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/t5/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/table_transformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/table_transformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/table_transformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/timesformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/timesformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/timesformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/tinybert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/tinybert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/tinybert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/transformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/transformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/transformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/van/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/van/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/van/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/vipllava/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/vipllava/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/vipllava/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/vision_text_dual_encoder/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/vision_text_dual_encoder/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/vision_text_dual_encoder/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/visual_bert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/visual_bert/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/visual_bert/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/vit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/vit/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/vit/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/wav2vec2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/wav2vec2/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/wav2vec2/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/wav2vec2_conformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/wav2vec2_conformer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/wav2vec2_conformer/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/wav2vec2_with_lm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/wav2vec2_with_lm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/wav2vec2_with_lm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/wavlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/wavlm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/wavlm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/whisper/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/whisper/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/whisper/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/x_clip/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/x_clip/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/x_clip/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/xlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/xlm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/xlm/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/xlm_roberta/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/xlm_roberta/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/xlm_roberta/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/xlm_roberta_xl/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/xlm_roberta_xl/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/xlm_roberta_xl/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/models/xlnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/xlnet/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/xlnet/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/automatic_speech_recognition/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/automatic_speech_recognition/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/automatic_speech_recognition/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/base/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/base/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/base/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/document_question_answering/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/document_question_answering/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/document_question_answering/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/fill_mask/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/fill_mask/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/fill_mask/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/pipeline/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/pipeline/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/pipeline/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/question_answering/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/question_answering/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/question_answering/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/text2text_generation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/text2text_generation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/text2text_generation/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/text_classification/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/text_classification/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/text_classification/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/text_generation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/text_generation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/text_generation/"/>
+    </url>
+    <url>
+        <loc>Noneapi/transformers/pipeline/zero_shot_classification/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/zero_shot_classification/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/zero_shot_classification/"/>
+    </url>
+    <url>
+        <loc>Nonenotes/changelog/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenotes/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/notes/changelog/"/>
+    </url>
+    <url>
+        <loc>Nonenotes/code_of_conduct/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenotes/code_of_conduct/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/notes/code_of_conduct/"/>
+    </url>
+    <url>
+        <loc>Nonenotes/faq/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenotes/faq/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/notes/faq/"/>
+    </url>
+    <url>
+        <loc>Nonetutorials/data_preprocess/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/data_preprocess/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/data_preprocess/"/>
+    </url>
+    <url>
+        <loc>Nonetutorials/peft/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/peft/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/peft/"/>
+    </url>
+    <url>
+        <loc>Nonetutorials/quick_start/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/quick_start/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/quick_start/"/>
+    </url>
+    <url>
+        <loc>Nonetutorials/use_mirror/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/use_mirror/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/use_mirror/"/>
+    </url>
+    <url>
+        <loc>Nonetutorials/use_trainer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/use_trainer/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/use_trainer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonezh/contribute/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/contribute/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonecontribute/"/>
+    </url>
+    <url>
+        <loc>Nonezh/quick_start/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/quick_start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonequick_start/"/>
+    </url>
+    <url>
+        <loc>Nonezh/supported_models/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/supported_models/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonesupported_models/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/accelerate/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/accelerate/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/accelerate/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/data/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/data/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/dataset/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/modules/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/modules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/modules/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/parallel/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/parallel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/parallel/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/sentence/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/sentence/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/sentence/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/trl/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/trl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/trl/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/utils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/utils/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/dataset/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/dataset/BaseMapFunction/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/BaseMapFunction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/BaseMapFunction/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/dataset/load_dataset/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/load_dataset/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/load_dataset/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/dataset/transforms/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/dataset/transforms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/dataset/transforms/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/engine/callbacks/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/callbacks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/callbacks/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/engine/export/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/export/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/export/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/engine/utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/utils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/utils/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/engine/train_args/base/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/train_args/base/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/train_args/base/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/engine/train_args/seq2seq/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/train_args/seq2seq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/train_args/seq2seq/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/engine/trainer/base/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/trainer/base/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/trainer/base/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/engine/trainer/default_func/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/engine/trainer/default_func/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/engine/trainer/default_func/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/config/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/config/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/mapping/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/mapping/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/mapping/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/peft_model/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/peft_model/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/peft_model/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/tuners/adalora/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/adalora/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/adalora/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/tuners/adaption_prompt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/adaption_prompt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/adaption_prompt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/tuners/ia3/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/ia3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/ia3/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/tuners/lokr/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/lokr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/lokr/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/tuners/lora/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/lora/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/lora/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/tuners/prompt_tuning/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/tuners/prompt_tuning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/tuners/prompt_tuning/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/peft/utils/merge_utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/peft/utils/merge_utils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/peft/utils/merge_utils/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/configuration_utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/configuration_utils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/configuration_utils/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/modeling_utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/modeling_utils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/modeling_utils/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/tokenization_utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/tokenization_utils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/tokenization_utils/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/tokenization_utils_base/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/tokenization_utils_base/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/tokenization_utils_base/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/tokenization_utils_fast/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/tokenization_utils_fast/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/tokenization_utils_fast/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/generation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/generation/beam_constraints/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/beam_constraints/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/beam_constraints/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/generation/beam_search/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/beam_search/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/beam_search/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/generation/logits_process/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/logits_process/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/logits_process/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/generation/stopping_criteria/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/stopping_criteria/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/stopping_criteria/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/generation/streamers/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/streamers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/streamers/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/generation/utils/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/generation/utils/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/generation/utils/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/albert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/albert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/albert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/align/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/align/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/align/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/altclip/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/altclip/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/altclip/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/audio_spectrogram_transformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/audio_spectrogram_transformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/audio_spectrogram_transformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/auto/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/auto/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/auto/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/autoformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/autoformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/autoformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/baichuan/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/baichuan/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/baichuan/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bark/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bark/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bark/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bart/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bart/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bart/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/barthez/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/barthez/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/barthez/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bartpho/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bartpho/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bartpho/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/beit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/beit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/beit/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bert_generation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bert_generation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bert_generation/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bert_japanese/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bert_japanese/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bert_japanese/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bertweet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bertweet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bertweet/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bge_m3/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bge_m3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bge_m3/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/big_bird/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/big_bird/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/big_bird/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bigbird_pegasus/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bigbird_pegasus/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bigbird_pegasus/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/biogpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/biogpt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/biogpt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bit/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/blenderbot/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/blenderbot/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/blenderbot/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/blenderbot_small/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/blenderbot_small/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/blenderbot_small/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/blip/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/blip/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/blip/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/blip_2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/blip_2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/blip_2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bloom/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bloom/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bloom/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bridgetower/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bridgetower/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bridgetower/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/bros/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/bros/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/bros/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/byt5/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/byt5/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/byt5/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/camembert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/camembert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/camembert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/canine/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/canine/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/canine/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/chatglm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/chatglm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/chatglm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/chatglm2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/chatglm2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/chatglm2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/chatglm3/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/chatglm3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/chatglm3/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/clip/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/clip/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/clip/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/codegen/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/codegen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/codegen/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/cogvlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cogvlm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cogvlm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/cohere/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cohere/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cohere/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/convbert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/convbert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/convbert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/convnext/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/convnext/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/convnext/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/cpm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cpm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cpm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/cpmant/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cpmant/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cpmant/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/cpmbee/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cpmbee/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cpmbee/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/ctrl/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/ctrl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/ctrl/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/cvt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/cvt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/cvt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/data2vec/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/data2vec/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/data2vec/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/deberta/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/deberta/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/deberta/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/deberta_v2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/deberta_v2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/deberta_v2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/decision_transformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/decision_transformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/decision_transformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/distilbert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/distilbert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/distilbert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/efficientformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/efficientformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/efficientformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/efficientnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/efficientnet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/efficientnet/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/electra/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/electra/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/electra/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/encodec/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/encodec/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/encodec/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/ernie/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/ernie/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/ernie/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/ernie_m/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/ernie_m/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/ernie_m/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/esm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/esm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/esm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/falcon/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/falcon/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/falcon/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/flava/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/flava/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/flava/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/funnel/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/funnel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/funnel/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/gemma/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gemma/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gemma/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/git/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/git/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/gpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/gpt2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/gpt_bigcode/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_bigcode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_bigcode/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/gpt_neo/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_neo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_neo/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/gpt_neox/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_neox/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_neox/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/gpt_neox_japanese/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_neox_japanese/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_neox_japanese/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/gpt_pangu/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gpt_pangu/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gpt_pangu/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/gptj/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/gptj/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/gptj/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/graphormer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/graphormer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/graphormer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/groupvit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/groupvit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/groupvit/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/hubert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/hubert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/hubert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/imagegpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/imagegpt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/imagegpt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/internlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/internlm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/internlm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/jamba/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/jamba/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/jamba/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/jetmoe/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/jetmoe/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/jetmoe/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/layoutlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/layoutlm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/layoutlm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/layoutlmv2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/layoutlmv2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/layoutlmv2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/led/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/led/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/led/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/llama/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/llama/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/llama/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/llava/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/llava/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/llava/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/llava_next/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/llava_next/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/llava_next/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/longformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/longformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/longformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/longt5/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/longt5/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/longt5/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/luke/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/luke/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/luke/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mamba/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mamba/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mamba/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/marian/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/marian/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/marian/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/maskformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/maskformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/maskformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mbart/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mbart/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mbart/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/megatron_bert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/megatron_bert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/megatron_bert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/megatron_gpt2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/megatron_gpt2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/megatron_gpt2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/minicpm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/minicpm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/minicpm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/minigpt4/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/minigpt4/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/minigpt4/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mistral/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mistral/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mistral/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mixtral/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mixtral/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mixtral/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mobilebert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mobilebert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mobilebert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mobilevit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mobilevit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mobilevit/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/moss/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/moss/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/moss/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mpnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mpnet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mpnet/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mpt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mpt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mt5/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mt5/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mt5/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/musicgen/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/musicgen/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/musicgen/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/musicgen_melody/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/musicgen_melody/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/musicgen_melody/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/mvp/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/mvp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/mvp/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/nezha/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/nezha/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/nezha/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/nystromformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/nystromformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/nystromformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/olmo/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/olmo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/olmo/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/openelm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/openelm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/openelm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/opt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/opt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/opt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/owlvit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/owlvit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/owlvit/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/pegasus/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/pegasus/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/pegasus/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/phi/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/phi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/phi/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/phi3/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/phi3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/phi3/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/poolformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/poolformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/poolformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/pop2piano/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/pop2piano/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/pop2piano/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/qwen2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/qwen2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/qwen2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/qwen2_moe/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/qwen2_moe/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/qwen2_moe/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/reformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/reformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/reformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/regnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/regnet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/regnet/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/rembert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/rembert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/rembert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/resnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/resnet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/resnet/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/roberta/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/roberta/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/roberta/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/roc_bert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/roc_bert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/roc_bert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/rwkv/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/rwkv/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/rwkv/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/sam/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/sam/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/sam/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/seamless_m4t/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/seamless_m4t/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/seamless_m4t/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/seamless_m4t_v2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/seamless_m4t_v2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/seamless_m4t_v2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/segformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/segformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/segformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/seggpt/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/seggpt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/seggpt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/speech_encoder_decoder/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/speech_encoder_decoder/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/speech_encoder_decoder/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/speech_to_text/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/speech_to_text/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/speech_to_text/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/squeezebert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/squeezebert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/squeezebert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/stablelm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/stablelm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/stablelm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/starcoder2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/starcoder2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/starcoder2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/swiftformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/swiftformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/swiftformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/switch_transformers/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/switch_transformers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/switch_transformers/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/t5/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/t5/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/t5/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/table_transformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/table_transformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/table_transformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/timesformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/timesformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/timesformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/tinybert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/tinybert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/tinybert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/transformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/transformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/transformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/van/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/van/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/van/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/vipllava/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/vipllava/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/vipllava/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/vision_text_dual_encoder/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/vision_text_dual_encoder/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/vision_text_dual_encoder/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/visual_bert/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/visual_bert/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/visual_bert/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/vit/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/vit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/vit/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/wav2vec2/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/wav2vec2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/wav2vec2/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/wav2vec2_conformer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/wav2vec2_conformer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/wav2vec2_conformer/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/wav2vec2_with_lm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/wav2vec2_with_lm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/wav2vec2_with_lm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/wavlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/wavlm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/wavlm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/whisper/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/whisper/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/whisper/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/x_clip/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/x_clip/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/x_clip/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/xlm/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/xlm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/xlm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/xlm_roberta/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/xlm_roberta/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/xlm_roberta/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/xlm_roberta_xl/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/xlm_roberta_xl/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/xlm_roberta_xl/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/models/xlnet/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/models/xlnet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/models/xlnet/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/automatic_speech_recognition/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/automatic_speech_recognition/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/automatic_speech_recognition/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/base/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/base/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/base/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/document_question_answering/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/document_question_answering/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/document_question_answering/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/fill_mask/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/fill_mask/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/fill_mask/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/pipeline/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/pipeline/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/pipeline/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/question_answering/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/question_answering/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/question_answering/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/text2text_generation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/text2text_generation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/text2text_generation/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/text_classification/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/text_classification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/text_classification/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/text_generation/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/text_generation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/text_generation/"/>
+    </url>
+    <url>
+        <loc>Nonezh/api/transformers/pipeline/zero_shot_classification/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/api/transformers/pipeline/zero_shot_classification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneapi/transformers/pipeline/zero_shot_classification/"/>
+    </url>
+    <url>
+        <loc>Nonezh/notes/changelog/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/notes/changelog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenotes/changelog/"/>
+    </url>
+    <url>
+        <loc>Nonezh/notes/code_of_conduct/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/notes/code_of_conduct/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenotes/code_of_conduct/"/>
+    </url>
+    <url>
+        <loc>Nonezh/notes/faq/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/notes/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonenotes/faq/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tutorials/data_preprocess/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/data_preprocess/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/data_preprocess/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tutorials/peft/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/peft/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/peft/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tutorials/quick_start/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/quick_start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/quick_start/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tutorials/use_mirror/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/use_mirror/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/use_mirror/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tutorials/use_trainer/</loc>
+        <lastmod>2024-11-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tutorials/use_trainer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetutorials/use_trainer/"/>
+    </url>
+</urlset>
