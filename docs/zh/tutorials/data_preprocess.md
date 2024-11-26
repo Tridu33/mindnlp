@@ -1,20 +1,20 @@
 # 数据预处理
 
 
-在本教程中，我们将指导您准备培训数据集。
+在本教程中，我们将指导您准备train数据集。
 
 与在 [快速开始](./quick_start.md)，我们将使用 [大型电影评论数据集](https://huggingface.co/datasets/stanfordnlp/imdb) 数据集。
 
 为了预处理数据集，有两种可用的方法：
-*本地思维孔 `Dataset` API
+*原生MindSpore `Dataset` API
 *修改 `BaseMapFunction` api in mindnlp
 
-虽然本地思维孔方法可以使您更加灵活，但 `BaseMapFunction` 方法有助于包装代码以获得更好的可读性。
+虽然原生MindSpore方法可以使您更加灵活，但 `BaseMapFunction` 方法有助于包装代码以获得更好的可读性。
 
 此外，在上升或GPU环境中工作会带来处理过程的细微差异，这主要是由于动态形状的不同处理。 我们会在进行时看到它。
 
 ## 加载并拆分数据集
-首先，从拥抱面孔存储库中加载数据集：
+首先，从HuggingFace存储库中加载数据集：
 
 
 ```python
@@ -27,9 +27,9 @@ imdb_test = imdb_ds['test']
 
  `load_dataset` 接受一个数据集名称，用于从拥抱面积存储库中远程获取，以及指向存储在磁盘上的数据集的本地路径。
 
-这 `split` 参数告知 `load_dataset` 获取数据集的哪个分配。 在这里，它将获取培训数据集（“火车”）和测试数据集（“测试”）。
+这 `split` 参数告知 `load_dataset` 获取数据集的哪个分配。 在这里，它将获取train数据集（“火车”）和测试数据集（“测试”）。
 
-要进一步将培训数据集分为培训和验证数据集，请使用 `.split()` 方法。 数字列表指定了每个拆分的数据条目的比例。
+要进一步将train数据集分为train和验证数据集，请使用 `.split()` 方法。 数字列表指定了每个拆分的数据条目的比例。
 
 
 ```python
@@ -56,7 +56,7 @@ tokenizer = AutoTokenizer.from_pretrained('bert-base-cased')
 
 要获取相应的令牌，您可以提供模型名称，在这种情况下 `'bert-base-cased'`，到 `AutoTokenizer.from_pretrained` 方法。 然后，它将下载您的模型所需的令牌。
 
-## 与本地思维孔的预处理
+## 与原生MindSpore的预处理
 为了用本机思维孔预处理数据集，我们编写一个函数 `process_dataset` 这包括关键步骤：
 
 
@@ -98,8 +98,8 @@ def process_dataset(dataset: GeneratorDataset, tokenizer, max_seq_len=256, batch
 ```
 
 这是每个步骤的分解：
-*####令牌化
-第一步是令牌化。 令牌化将原始文本转换为可以馈入机器学习模型的格式。
+*####Tokenization
+第一步是Tokenization。 Tokenization将原始文本转换为可以馈入机器学习模型的格式。
 
 定义令牌函数以处理数据集的每一行中的文本。
 ```python
@@ -108,7 +108,7 @@ def tokenize(text):
     return tokenized['input_ids'], tokenized['token_type_ids'], tokenized['attention_mask']
 ```
 
-然后利用 `GeneratorDataset.map` 来自Mindspore的API将令牌化操作映射到数据集中的所有行。 这将采用 `"text"` 列作为输入，将其引起并返回 `"input_ids"`，，，，`"token_type_ids"` 和 `"attention_mask"` 列作为输出。
+然后利用 `GeneratorDataset.map` 来自Mindspore的API将Tokenization操作映射到数据集中的所有行。 这将采用 `"text"` 列作为输入，将其引起并返回 `"input_ids"`，`"token_type_ids"` 和 `"attention_mask"` 列作为输出。
 ```python
 dataset = dataset.map(operations=[tokenize], input_columns="text", output_columns=['input_ids', 'token_type_ids', 'attention_mask'])
 ```
@@ -145,7 +145,7 @@ if is_ascend:
 
 *####取子集
 
-有时，您可能需要在较小的数据子集上进行训练或测试，例如调试培训过程。 为此，请使用 `take` 方法，选择指定的编号（ `take_len` 数据集的条目：
+有时，您可能需要在较小的数据子集上进行训练或测试，例如调试train过程。 为此，请使用 `take` 方法，选择指定的编号（ `take_len` 数据集的条目：
 ```python
 dataset = dataset.take(take_len)
 ```
@@ -166,7 +166,7 @@ print(next(processed_dataset_train.create_dict_iterator()))
 ```
 
 ## 与 `BaseMapFunction` 
-预处理数据集进行培训的另一种方法是通过 `BaseMapFunction` 来自Mindnlp。 您可以修改 `BaseMapFunction` 创建您的映射功能：
+预处理数据集进行train的另一种方法是通过 `BaseMapFunction` 来自Mindnlp。 您可以修改 `BaseMapFunction` 创建您的映射功能：
 
 
 ```python

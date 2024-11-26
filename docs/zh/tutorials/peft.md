@@ -1,12 +1,12 @@
 # peft
 
 
-PEFT（参数有效的微调）是一种具有最小参数更新的大型预训练模型，以降低计算成本并保留概括。 在peft中，洛拉（ [低级适应](https://arxiv.org/abs/2106.09685) ）使用低级矩阵来有效调整具有最小额外参数的神经网络的部分。 该技术使您能够训练通常在消费者设备上无法访问的大型型号。
+PEFT（参数有效的微调）是一种具有最小参数更新的大型预训练模型，以降低计算成本并保留概括。 在peft中，LoRA（ [低级适应](https://arxiv.org/abs/2106.09685) ）使用低级矩阵来有效调整具有最小额外参数的神经网络的部分。 该技术使您能够训练通常在消费者设备上无法访问的大型模型。
 
-在本教程中，我们将使用MindNLP探索这项技术。 例如，我们将使用MT0模型，该模型是在多语言任务上进行的MT5模型。 您将学习如何初始化，修改和培训模型，从而获得有效的微调实践经验。
+在本教程中，我们将使用MindNLP探索这项技术。 例如，我们将使用MT0模型，该模型是在多语言任务上进行的MT5模型。 您将学习如何初始化，修改和train模型，从而获得有效的微调实践经验。
 
-## 加载模型并添加PEFT适配器
-首先，我们通过向型号加载器提供型号来加载验证的型号 `AutoModelForSeq2SeqLM`。 然后使用PEFT适配器添加到模型 `get_peft_model`，这使模型可以维护其大部分预训练参数，同时有效地使用一组可训练的参数来适应新任务。
+## 加载模型并添加PEFT adapter
+首先，我们通过向模型加载器提供模型来加载验证的模型 `AutoModelForSeq2SeqLM`。 然后使用PEFT adapter添加到模型 `get_peft_model`，这使模型可以维护其大部分预训练参数，同时有效地使用一组可训练的参数来适应新任务。
 
 
 ```python
@@ -25,13 +25,13 @@ model = get_peft_model(model, peft_config)
 model.print_trainable_parameters()
 ```
 
- `LoraConfig` 指定应如何配置PEFT适配器：
+ `LoraConfig` 指定应如何配置PEFT adapter：
 
 *`task_type` ：定义任务的类型，在这种情况下，taskType.seq_2_seq_lm用于序列到序列语言建模。
-*`inference_mode` ：在训练时应设置为虚假的布尔值，以实现适配器的特定训练功能。
-*`r` ：代表适配器一部分的低级矩阵的等级。 较低的等级意味着较小的复杂性，训练的参数较少。
+*`inference_mode` ：在训练时应设置为虚假的布尔值，以实现 adapter的特定训练功能。
+*`r` ：代表 adapter一部分的低级矩阵的等级。 较低的等级意味着较小的复杂性，训练的参数较少。
 *`lora_alpha` ：lora alpha是重量矩阵的缩放系数。 较高的alpha值为Lora激活分配了更大的权重。
-*`lora_dropout` ：设置适配器层中的辍学率以防止过度拟合。
+*`lora_dropout` ：设置 adapter层中的辍学率以防止过度拟合。
 
 ## 准备数据集
 
@@ -42,7 +42,7 @@ model.print_trainable_parameters()
 ### 加载数据集
 加载数据集 `load_dataset` 来自Mindnlp。
 
-然后将数据改组和分割，分配90％进行培训，验证10％。
+然后将数据改组和分割，分配90％进行train，验证10％。
 
 
 ```python
@@ -53,7 +53,7 @@ train_dataset, validation_dataset = dataset.shuffle(64).split([0.9, 0.1])
 ```
 
 ### 添加文本标签
-由于我们正在训练序列到序列模型，因此该模型的输出需要是文本，在我们的情况下是 "negative"，，，，"neutral" 或者 "positive"。 因此，除了每个条目中的数字标签（0、1或2）之外，我们还需要将文本标签添加到。 这是通过 `add_text_label` 功能。 该功能通过培训和验证数据集中的每个条目映射到 `map` API。
+由于我们正在训练序列到序列模型，因此该模型的输出需要是文本，在我们的情况下是 "negative"，"neutral" 或者 "positive"。 因此，除了每个条目中的数字标签（0、1或2）之外，我们还需要将文本标签添加到。 这是通过 `add_text_label` 功能。 该功能通过train和验证数据集中的每个条目映射到 `map` API。
 
 
 ```python
@@ -65,8 +65,8 @@ train_dataset = train_dataset.map(add_text_label, ['sentence', 'label'], ['sente
 validation_dataset = validation_dataset.map(add_text_label, ['sentence', 'label'], ['sentence', 'label', 'text_label'])
 ```
 
-### 令牌化
-然后，我们将文本与与MT0模型关联的令牌化。 首先，加载令牌：
+### Tokenization
+然后，我们将文本与与MT0模型关联的Tokenization。 首先，加载令牌：
 
 
 ```python
@@ -74,11 +74,11 @@ from mindnlp.transformers import AutoTokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
 ```
 
-接下来，修改 `BaseMapFunction` 从MindNLP总结了令牌化步骤。
+接下来，修改 `BaseMapFunction` 从MindNLP总结了Tokenization步骤。
 
 请注意，这两个 `sentence` 和 `text_label` 列需要被象征化。
 
-此外，为了避免由于多个线程试图同时代币化数据而引起的意外行为，我们使用 `Lock` 来自 `threading` 模块以确保仅一个线程可以一次执行令牌化。
+此外，为了避免由于多个线程试图同时代币化数据而引起的意外行为，我们使用 `Lock` 来自 `threading` 模块以确保仅一个线程可以一次执行Tokenization。
 
 
 ```python
@@ -123,11 +123,11 @@ eval_dataset = get_dataset(validation_dataset, tokenizer, batch_size=batch_size,
 
 ## 训练模型
 
-现在，我们准备好模型和数据集，让我们为培训做准备。
+现在，我们准备好模型和数据集，让我们为train做准备。
 
 ### 优化器和学习率调度程序
 
-我们设置了用于更新模型参数的优化器，以及在整个培训过程中管理学习率的学习率调度程序。
+我们设置了用于更新模型参数的优化器，以及在整个train过程中管理学习率的学习率调度程序。
 
 
 ```python
@@ -174,7 +174,7 @@ def train_step(**batch):
 
 ### 训练循环
 
-现在一切都准备就绪，让我们实施培训和评估循环，并为培训过程提供。
+现在一切都准备就绪，让我们实施train和评估循环，并为train过程提供。
 
 此过程通过数据集（即多个时期）上的多个迭代来优化模型的参数，并评估其在评估数据集上的性能。
 
@@ -218,7 +218,7 @@ for epoch in range(num_epochs):
 
 *模型训练模式
 
-在培训开始之前，该模型通过 `model.set_train(True)`。 在评估之前，模型的特定训练行为是由 `model.set_train(False)`.
+在train开始之前，该模型通过 `model.set_train(True)`。 在评估之前，模型的特定训练行为是由 `model.set_train(False)`.
 
 *损失和困惑
 
@@ -232,11 +232,11 @@ for epoch in range(num_epochs):
 
 *评估循环
 
-在评估期间，除了 `model.set_train(False)`，，，，`mindspore._no_grad()` 确保在评估阶段未计算梯度，这可以保存记忆和计算。
+在评估期间，除了 `model.set_train(False)`，`mindspore._no_grad()` 确保在评估阶段未计算梯度，这可以保存记忆和计算。
 这 `tokenizer.batch_decode()` 功能将输出逻辑从模型转换回可读文本。 这对于检查模型的预测和进一步的定性分析很有用。
 
 ## 训练后
-现在我们已经完成了培训，我们可以评估其性能并保存训练有素的模型以供将来使用。
+现在我们已经完成了train，我们可以评估其性能并保存训练有素的模型以供将来使用。
 
 ### 准确性汇总并检查有预测的结果
 
@@ -282,7 +282,7 @@ model.save_pretrained(peft_model_id)
 
 现在，让我们加载保存的模型，并演示如何将其用于对新数据进行预测。
 
-为了加载已通过PEFT训练的模型，我们首先将基本模型加载 `AutoModelForSeq2SeqLM.from_pretrained`。 最重要的是，我们将受过训练的PEFT适配器添加到模型中 `PeftModel.from_pretrained` ：
+为了加载已通过PEFT训练的模型，我们首先将基本模型加载 `AutoModelForSeq2SeqLM.from_pretrained`。 最重要的是，我们将受过训练的PEFT adapter添加到模型中 `PeftModel.from_pretrained` ：
 
 
 ```python
@@ -303,7 +303,7 @@ model = PeftModel.from_pretrained(model, peft_model_id)
 
 接下来，从验证数据集检索条目，或者自己创建条目。
 
-我们象征着 `'sentence'` 在此条目中，并将其用作模型的输入。 对此表示敬意，并对模型的预测感到好奇。
+对此条目中的 'sentence' 进行标记，并将其用作模型的输入。执行它并对模型进行预测。
 
 
 ```python

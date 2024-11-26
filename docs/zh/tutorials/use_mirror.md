@@ -1,13 +1,13 @@
-# 使用镜子下载模型和数据集
+# 使用镜像下载模型和数据集
 
 
-虽然官方的拥抱面孔存储库提供了许多高质量的模型和数据集，但由于网络问题，它们可能总是无法访问的。 为了使访问更轻松，MindNLP使您可以从各种拥抱面镜或其他模型存储库中下载模型和数据集。
+虽然官方的HuggingFace存储库提供了许多高质量的模型和数据集，但由于网络问题，它们可能总是无法访问的。 为了使访问更轻松，MindNLP使您可以从各种HuggingFace或其他模型存储库中下载模型和数据集。
 
-在这里，我们向您展示如何设置所需的镜子。
+在这里，我们向您展示如何设置所需的镜像。
 
-您可以通过环境变量设置拥抱面镜，或者在本地更大，指定镜子 `from_pretrained` 下载模型时的方法。
+您可以通过环境变量设置HuggingFace，或者在本地更大，指定镜像 `from_pretrained` 下载模型时的方法。
 
-## 通过环境变量设置拥抱面镜
+## 通过环境变量设置HuggingFace
 
 通过Mindnlp使用的拥抱表镜可以通过 `HF_ENDPOINT` 环境变量。
 
@@ -41,9 +41,9 @@ from mindnlp.transformers import AutoModelForSequenceClassification
 model = AutoModelForSequenceClassification.from_pretrained('bert-base-uncased')
 ```
 
-## 指定拥抱面镜 `from_pretrained` 方法
+## 指定HuggingFace `from_pretrained` 方法
 
-您也可以在环境变量上全球设置拥抱面镜，而是可以在 `from_pretrained` 方法。
+您也可以在环境变量上全球设置HuggingFace，而是可以在 `from_pretrained` 方法。
 
 例如：
 
@@ -57,7 +57,7 @@ MindNLP接受以下选项 `mirror` 争论：
 
 *'huggingface'
 
-从通过指定的拥抱面镜下载 `HF_ENDPOINT` 环境变量。 默认情况下，它指向 [HF MIRROR](https://hf-mirror.com).
+从通过指定的HuggingFace下载 `HF_ENDPOINT` 环境变量。 默认情况下，它指向 [HF MIRROR](https://hf-mirror.com).
 
 *'ModelsCope'
 
@@ -75,9 +75,9 @@ MindNLP接受以下选项 `mirror` 争论：
 
 从 [ai快站](https://aifasthub.com).
 
-请注意，并非所有型号都可以从单个镜像中找到，您可能需要检查要下载的型号是否由您选择的镜像提供。
+请注意，并非所有模型都可以从单个镜像中找到，您可能需要检查要下载的模型是否由您选择的镜像提供。
 
-除了指定镜子外，您还需要指定 `revision` 争论。 这 `revision` 根据您选择的镜子，参数可以是“主”或“主”。 默认情况下，`revision='main'`.
+除了指定镜像外，您还需要指定 `revision` 争论。 这 `revision` 根据您选择的镜像，参数可以是“主”或“主”。 默认情况下，`revision='main'`.
 
 *如果是 `mirror` 是“拥抱面”，“ Wisemodel”或“ Gitee”`revision='main'`.
 

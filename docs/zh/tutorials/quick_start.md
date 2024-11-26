@@ -1,28 +1,28 @@
 # 快速开始
 
 
-MindNLP为培训提供了强大的功能，并使用AI模型来完成各种任务。 首先，本教程将指导您加载预贴模型并进行微调以满足您的特定需求。
+MindNLP为train提供了强大的功能，并使用AI模型来完成各种任务。 首先，本教程将指导您加载预贴模型并进行微调以满足您的特定需求。
 
-使用验证的模型具有很大的好处：它节省了计算时间和资源。 微调使您可以在唯一的数据集中调整这些模型以增强性能。 现在您已经准备好了，让我们开始吧！
+使用预训练模型有很大的好处：它可以节省计算时间和资源。通过微调，您可以调整这些模型，以增强独特数据集的性能。现在您已经准备好了，让我们开始吧！
 
-我们将使用 [伯特](https://arxiv.org/abs/1810.04805) 模型为示例，然后对其进行微调以在 [大型电影评论数据集](https://huggingface.co/datasets/stanfordnlp/imdb).
+我们将使用 [BERT](https://arxiv.org/abs/1810.04805) 模型为示例，然后对其进行微调以在 [大型电影评论数据集](https://huggingface.co/datasets/stanfordnlp/imdb).
 
-为了进行微调，MindNLP提供了两种方法：一种方法是通过MindNLP的用户友好培训师API，该教练支持基本的培训功能； 为了获得更多自定义的控件，您可以通过本地思维孔使用其他方法。 我们将在本教程中指导您完成两种方法。
+为了执行微调，MindNLP 提供了两种方法：一种方法是通过 MindNLP 的用户友好型 Trainer API，它支持基本的训练功能;要有更多的自定义控制，可以通过原生MindSpore使用另一种方式。在本教程中，我们将指导您完成这两种方法。
 
-对于两个征用，您首先需要通过运行 [准备数据集](#prepare_a_dataset) 本教程的一部分。
+对于这两个例子，您首先需要通过运行本教程的 Prepare a dataset 部分来准备数据集。
 
-准备好数据集后，从下面选择其中一种曲目，然后开始您的旅程！
+数据集准备好后，从下面选择一个策略并开始您的旅程！
 
-*[与MindNLP培训师进行了预算的模型。](#train_with_mindnlp_trainer) 
+*[使用 MindNLP Trainer 微调预训练模型。](#train_with_mindnlp_trainer) 
 
-*[微调本地思维螺旋式验证的模型。](#train_with_native_mindspore) 
+*[在原生MindSpore中微调预训练模型。](#train_with_native_mindspore) 
 
 <a id ='prepar_a_dataset'> </a>
 ## 准备数据集
 
-在您可以微调验证的型号之前，请下载数据集并准备培训。
+在您可以微调验证的模型之前，请下载数据集并准备train。
 
-Mindnlp包括 `load_dataset` 从拥抱脸部数据集存储库中加载任何数据集的API。 在这里让我们加载 [大型电影评论数据集](https://huggingface.co/datasets/stanfordnlp/imdb) 数据集，名为 `'imdb'`，并将其分为培训，验证和测试数据集。
+Mindnlp包括 `load_dataset` 从拥抱脸部数据集存储库中加载任何数据集的API。 在这里让我们加载 [大型电影评论数据集](https://huggingface.co/datasets/stanfordnlp/imdb) 数据集，名为 `'imdb'`，并将其分为train，验证和测试数据集。
 
 
 ```python
@@ -36,7 +36,7 @@ imdb_test = imdb_ds['test']
 imdb_train, imdb_val = imdb_train.split([0.7, 0.3])
 ```
 
-接下来，为模型加载令牌。 令牌化的过程将原始文本转换为机器学习模型可以处理的格式，这对于自然语言处理任务至关重要。
+接下来，为模型加载令牌。 Tokenization的过程将原始文本转换为机器学习模型可以处理的格式，这对于自然语言处理任务至关重要。
 
 在Mindnlp中 `AutoTokenizer` 帮助自动获取并实例化适当的令牌以作为预训练的模型。
 
@@ -107,16 +107,16 @@ small_dataset_test = process_dataset(imdb_test, tokenizer, batch_size=batch_size
 
 ## 火车
 
-在此阶段，您可以选择 [MindNLP教练API](#train_with_mindnlp_trainer) 或 [本地思维孔](#train_with_native_mindspore) 微调模型的方法。
+在此阶段，您可以选择 [MindNLP trainer API](#train_with_mindnlp_trainer) 或 [原生MindSpore](#train_with_native_mindspore) 微调模型的方法。
 
-让我们从教练API方法开始。
+让我们从 trainer API方法开始。
 
 <a id ='train_with_mindnlp_trainer'> </a>
-### 与MindNLP培训师一起训练
+### 与MindNLPtrainer一起训练
 
-Mindnlp带有 [`Trainer`](https://github.com/mindspore-lab/mindnlp/tree/master/mindnlp/engine/trainer) 旨在简化模型培训的课程。 和 `Trainer`，您可以避免需要手动编写自己的训练循环。
+Mindnlp带有 [`Trainer`](https://github.com/mindspore-lab/mindnlp/tree/master/mindnlp/engine/trainer) 旨在简化模型train的课程。 和 `Trainer`，您可以避免需要手动编写自己的训练循环。
 
- `Trainer` 支持广泛的培训选项，将在 [使用教练](./use_trainer.md) 教程。
+ `Trainer` 支持广泛的train选项，将在 [使用 trainer ](./use_trainer.md) 教程。
 
 #### 初始化模型
 在这里的示例中，我们将首先实例化验证的BERT模型。
@@ -135,9 +135,9 @@ model = AutoModelForSequenceClassification.from_pretrained('bert-base-cased', nu
 print(type(model))
 ```
 
-#### 培训超参数
+#### train超参数
 
-接下来，创建一个 `TrainingArguments` 您可以在其中定义用于培训的超参数的课程。
+接下来，创建一个 `TrainingArguments` 您可以在其中定义用于train的超参数的课程。
 
 
 ```python
@@ -154,20 +154,20 @@ training_args = TrainingArguments(
 )
 ```
 
-为了全面了解更多参数 `TrainingArguments`，请参考 [使用教练](./use_trainer.md) 教程。 在这里，我们指定了以下参数。
+为了全面了解更多参数 `TrainingArguments`，请参考 [使用 trainer ](./use_trainer.md) 教程。 在这里，我们指定了以下参数。
 *`output_dir` ：这是所有输出（例如模型检查点和预测）的目录。 在此示例中，它设置为 "../../output".
-* `per_device_train_batch_size`: This controls the batch size used for training on each device. Since we already batched our dataset, here the batch size is set to 1. If you want to use `培训师`'s batch functionality, you can set your own batch size here.
+* `per_device_train_batch_size`: This controls the batch size used for training on each device. Since we already batched our dataset, here the batch size is set to 1. If you want to use `trainer`'s batch functionality, you can set your own batch size here.
 * `per_device_eval_batch_size` ：类似于训练批量的大小，但在验证数据的评估阶段使用。 由于我们已经将数据集批量化，因此批处理大小设置为1。
 *`learning_rate` ：模型学习的速度。 较小的值意味着学习速度较慢，但​​它们可能会导致更好的模型进行微调。
-*`num_train_epochs` ：定义训练环将在整个培训数据集上运行多少次。
+*`num_train_epochs` ：定义训练环将在整个train数据集上运行多少次。
 *`evaluation_strategy` ：确定执行评估的策略。 将其设置为“时期”意味着该模型在每个训练时期结束时进行评估。
-*`logging_steps` ：此设置控制多久将训练损耗和其他指标记录到控制台中的频率。 它有助于监视培训进度。
+*`logging_steps` ：此设置控制多久将训练损耗和其他指标记录到控制台中的频率。 它有助于监视train进度。
 *`save_strategy` ：确定保存模型检查点的策略。 将其设置为“时期”可确保在每个时期的结尾保存模型。
 
 #### 评价
 评估对于理解模型的性能和对新的，看不见的数据的概括性至关重要。
 
-为了在培训期间评估模型的性能，有必要提供指标汇编的功能 `Trainer`.
+为了在train期间评估模型的性能，有必要提供指标汇编的功能 `Trainer`.
 
 在这里，我们写了 `compute_metrics` 功能，将采用 `EvalPrediction` 对象作为输入，并计算预测标签和地面真实标签之间的评估指标。
 
@@ -185,9 +185,9 @@ def compute_metrics(eval_pred: EvalPrediction):
     return metric.compute(predictions=predictions, references=labels)
 ```
 
-#### 初始化教练
+#### 初始化 trainer 
 
-一旦 `TrainingArguments` 实例已配置，您可以将其传递给 `Trainer` 与您的模型和数据集一起上课。 此设置允许 `Trainer` 在整个培训和评估阶段中利用这些论点。
+一旦 `TrainingArguments` 实例已配置，您可以将其传递给 `Trainer` 与您的模型和数据集一起上课。 此设置允许 `Trainer` 在整个train和评估阶段中利用这些论点。
 
 
 ```python
@@ -202,7 +202,7 @@ trainer = Trainer(
 ```
 
 #### 开始训练
-现在我们都准备好了，让我们开始培训！
+现在我们都准备好了，让我们开始train！
 
 
 ```python
@@ -243,10 +243,10 @@ print(f "Positive sentiment: {probabilities[1]:.4f}")
 ```
 
 <a id ='train_with_native_mindspore'> </a>
-### 训练本地思维孔
-如果您希望对培训过程进行更自定义的控制，则也可以在本地思维螺旋中微调A。
+### 训练原生MindSpore
+如果您希望对train过程进行更自定义的控制，则也可以在本地思维螺旋中微调A。
 
-如果你去了 [与MindNLP培训师一起训练](#train_with_mindnlp_trainer) 部分，您可能需要重新启动笔记本并重新运行 [准备数据集](#prepare_a_dataset) 部分，或执行以下代码以释放一些内存：
+如果你去了 [与MindNLPtrainer一起训练](#train_with_mindnlp_trainer) 部分，您可能需要重新启动笔记本并重新运行 [准备数据集](#prepare_a_dataset) 部分，或执行以下代码以释放一些内存：
 
 
 ```python
@@ -304,7 +304,7 @@ grad_fn = value_and_grad(forward_fn, None, optimizer.parameters)
 
 #### 训练步骤
 
-实施 `train_step` 在培训的每个步骤中都会有理会的功能。
+实施 `train_step` 在train的每个步骤中都会有理会的功能。
 
 此功能处理一批数据，计算损失和梯度，并更新模型参数。
 
@@ -349,7 +349,7 @@ def train_one_epoch(model, train_dataset, epoch=0):
 
 #### 评估
 
-创建一个函数来计算模型预测的准确性。 与在Trainer API的培训中一样，我们利用了拥抱脸的评估包。
+创建一个函数来计算模型预测的准确性。 与在Trainer API的train中一样，我们利用了拥抱脸的评估包。
 
 
 ```python
