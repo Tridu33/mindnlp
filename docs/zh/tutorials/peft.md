@@ -78,7 +78,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_name_or_path)
 
 请注意，这两个 `sentence` 和 `text_label` 列需要被象征化。
 
-此外，为了避免由于多个线程试图同时代币化数据而引起的意外行为，我们使用 `Lock` 来自 `threading` 模块以确保仅一个线程可以一次执行Tokenization。
+此外，为了避免由于多个线程试图同时tokenize 数据而引起的意外行为，我们使用 `Lock` 来自 `threading` 模块以确保仅一个线程可以一次执行Tokenization。
 
 
 ```python
