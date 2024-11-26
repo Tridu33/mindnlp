@@ -3,8 +3,6 @@
   - navigation
 ---
 
-> 警告：本文由机器翻译生成，可能导致质量不佳或信息有误，请谨慎阅读！
-
 # <center> Mindnlp
 
 <p align ="center">
