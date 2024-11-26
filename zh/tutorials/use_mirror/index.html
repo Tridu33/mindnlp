@@ -625,18 +625,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
+  <a href="#huggingface" class="md-nav__link">
     <span class="md-ellipsis">
-      通过环境变量设置拥抱面镜
+      通过环境变量设置HuggingFace
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#from_pretrained" class="md-nav__link">
+  <a href="#huggingface-from_pretrained" class="md-nav__link">
     <span class="md-ellipsis">
-      指定拥抱面镜 from_pretrained 方法
+      指定HuggingFace from_pretrained 方法
     </span>
   </a>
   
@@ -6255,18 +6255,18 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#_2" class="md-nav__link">
+  <a href="#huggingface" class="md-nav__link">
     <span class="md-ellipsis">
-      通过环境变量设置拥抱面镜
+      通过环境变量设置HuggingFace
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#from_pretrained" class="md-nav__link">
+  <a href="#huggingface-from_pretrained" class="md-nav__link">
     <span class="md-ellipsis">
-      指定拥抱面镜 from_pretrained 方法
+      指定HuggingFace from_pretrained 方法
     </span>
   </a>
   
@@ -6303,11 +6303,11 @@
   
 
 
-<h1 id="_1">使用镜子下载模型和数据集<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
-<p>虽然官方的拥抱面孔存储库提供了许多高质量的模型和数据集，但由于网络问题，它们可能总是无法访问的。 为了使访问更轻松，MindNLP使您可以从各种拥抱面镜或其他模型存储库中下载模型和数据集。</p>
-<p>在这里，我们向您展示如何设置所需的镜子。</p>
-<p>您可以通过环境变量设置拥抱面镜，或者在本地更大，指定镜子 <code>from_pretrained</code> 下载模型时的方法。</p>
-<h2 id="_2">通过环境变量设置拥抱面镜<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
+<h1 id="_1">使用镜像下载模型和数据集<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
+<p>虽然官方的HuggingFace存储库提供了许多高质量的模型和数据集，但由于网络问题，它们可能总是无法访问的。 为了使访问更轻松，MindNLP使您可以从各种HuggingFace或其他模型存储库中下载模型和数据集。</p>
+<p>在这里，我们向您展示如何设置所需的镜像。</p>
+<p>您可以通过环境变量设置HuggingFace，或者在本地更大，指定镜像 <code>from_pretrained</code> 下载模型时的方法。</p>
+<h2 id="huggingface">通过环境变量设置HuggingFace<a class="headerlink" href="#huggingface" title="Permanent link">&para;</a></h2>
 <p>通过Mindnlp使用的拥抱表镜可以通过 <code>HF_ENDPOINT</code> 环境变量。</p>
 <p>您可以在终端中设置此变量，然后再借鉴Python脚本：
 <div class="highlight"><pre><span></span><code><span class="nb">export</span><span class="w"> </span><span class="nv">HF_ENDPOINT</span><span class="o">=</span><span class="s2">&quot;https://hf-mirror.com&quot;</span><span class="w"> </span>
@@ -6325,15 +6325,15 @@
 <div class="highlight"><pre><span></span><code><span class="kn">from</span> <span class="nn">mindnlp.transformers</span> <span class="kn">import</span> <span class="n">AutoModelForSequenceClassification</span>
 <span class="n">model</span> <span class="o">=</span> <span class="n">AutoModelForSequenceClassification</span><span class="o">.</span><span class="n">from_pretrained</span><span class="p">(</span><span class="s1">&#39;bert-base-uncased&#39;</span><span class="p">)</span>
 </code></pre></div>
-<h2 id="from_pretrained">指定拥抱面镜 <code>from_pretrained</code> 方法<a class="headerlink" href="#from_pretrained" title="Permanent link">&para;</a></h2>
-<p>您也可以在环境变量上全球设置拥抱面镜，而是可以在 <code>from_pretrained</code> 方法。</p>
+<h2 id="huggingface-from_pretrained">指定HuggingFace <code>from_pretrained</code> 方法<a class="headerlink" href="#huggingface-from_pretrained" title="Permanent link">&para;</a></h2>
+<p>您也可以在环境变量上全球设置HuggingFace，而是可以在 <code>from_pretrained</code> 方法。</p>
 <p>例如：</p>
 <div class="highlight"><pre><span></span><code><span class="kn">from</span> <span class="nn">mindnlp.transformers</span> <span class="kn">import</span> <span class="n">AutoModelForSequenceClassification</span>
 <span class="n">model</span> <span class="o">=</span> <span class="n">AutoModelForSequenceClassification</span><span class="o">.</span><span class="n">from_pretrained</span><span class="p">(</span><span class="s1">&#39;bert-base-uncased&#39;</span><span class="p">,</span> <span class="n">mirror</span><span class="o">=</span><span class="s1">&#39;modelscope&#39;</span><span class="p">,</span> <span class="n">revision</span><span class="o">=</span><span class="s1">&#39;master&#39;</span><span class="p">)</span>
 </code></pre></div>
 <p>MindNLP接受以下选项 <code>mirror</code> 争论：</p>
 <p>*'huggingface'</p>
-<p>从通过指定的拥抱面镜下载 <code>HF_ENDPOINT</code> 环境变量。 默认情况下，它指向 <a href="https://hf-mirror.com">HF MIRROR</a>.</p>
+<p>从通过指定的HuggingFace下载 <code>HF_ENDPOINT</code> 环境变量。 默认情况下，它指向 <a href="https://hf-mirror.com">HF MIRROR</a>.</p>
 <p>*'ModelsCope'</p>
 <p>从 <a href="https://www.modelscope.cn">ModelsCope</a>.</p>
 <p>*'Wisemodel'</p>
@@ -6342,8 +6342,8 @@
 <p>从 <a href="https://ai.gitee.com/huggingface">Gitee Ai拥抱脸部存储库</a>.</p>
 <p>*'aifast'</p>
 <p>从 <a href="https://aifasthub.com">ai快站</a>.</p>
-<p>请注意，并非所有型号都可以从单个镜像中找到，您可能需要检查要下载的型号是否由您选择的镜像提供。</p>
-<p>除了指定镜子外，您还需要指定 <code>revision</code> 争论。 这 <code>revision</code> 根据您选择的镜子，参数可以是“主”或“主”。 默认情况下，<code>revision='main'</code>.</p>
+<p>请注意，并非所有模型都可以从单个镜像中找到，您可能需要检查要下载的模型是否由您选择的镜像提供。</p>
+<p>除了指定镜像外，您还需要指定 <code>revision</code> 争论。 这 <code>revision</code> 根据您选择的镜像，参数可以是“主”或“主”。 默认情况下，<code>revision='main'</code>.</p>
 <p>*如果是 <code>mirror</code> 是“拥抱面”，“ Wisemodel”或“ Gitee”<code>revision='main'</code>.</p>
 <p>*如果是 <code>mirror</code> 是“ ModelsCope”，设置 <code>revision='master'</code>.</p>
 <p>*如果是 <code>mirror</code> 是“ aifast”，<code>revision</code> 不需要指定。</p>

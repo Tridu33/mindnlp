@@ -6596,7 +6596,7 @@
 <span class="n">预测</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">argmax</span><span class="p">(</span><span class="n">logits</span><span class="p">,</span> <span class="n">axis</span><span class="o">=-</span><span class="mi">1</span><span class="p">)</span>
 <span class="n">返回</span> <span class="n">metric</span><span class="o">.</span><span class="n">compute</span><span class="p">(</span><span class="n">预测</span><span class="o">=</span><span class="n">预测</span><span class="err">，</span><span class="n">参考</span><span class="o">=</span><span class="n">标签</span><span class="p">)</span>
 </code></pre></div>
-<p>请注意，目前我们仍然需要从拥抱面部评估模块加载准确性指标。</p>
+<p>请注意，目前我们仍然需要从HF评估模块加载准确性指标。</p>
 <p>创建训练器后，运行 <code>trainer.train()</code> 开始训练过程。</p>
 
 

@@ -580,9 +580,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#_4" class="md-nav__link">
+  <a href="#mindspore" class="md-nav__link">
     <span class="md-ellipsis">
-      与本地思维孔的预处理
+      与原生MindSpore的预处理
     </span>
   </a>
   
@@ -6291,9 +6291,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#_4" class="md-nav__link">
+  <a href="#mindspore" class="md-nav__link">
     <span class="md-ellipsis">
-      与本地思维孔的预处理
+      与原生MindSpore的预处理
     </span>
   </a>
   
@@ -6340,15 +6340,15 @@
 
 
 <h1 id="_1">数据预处理<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
-<p>在本教程中，我们将指导您准备培训数据集。</p>
+<p>在本教程中，我们将指导您准备train数据集。</p>
 <p>与在 <a href="../quick_start/">快速开始</a>，我们将使用 <a href="https://huggingface.co/datasets/stanfordnlp/imdb">大型电影评论数据集</a> 数据集。</p>
 <p>为了预处理数据集，有两种可用的方法：
-*本地思维孔 <code>Dataset</code> API
+*原生MindSpore <code>Dataset</code> API
 *修改 <code>BaseMapFunction</code> api in mindnlp</p>
-<p>虽然本地思维孔方法可以使您更加灵活，但 <code>BaseMapFunction</code> 方法有助于包装代码以获得更好的可读性。</p>
+<p>虽然原生MindSpore方法可以使您更加灵活，但 <code>BaseMapFunction</code> 方法有助于包装代码以获得更好的可读性。</p>
 <p>此外，在上升或GPU环境中工作会带来处理过程的细微差异，这主要是由于动态形状的不同处理。 我们会在进行时看到它。</p>
 <h2 id="_2">加载并拆分数据集<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
-<p>首先，从拥抱面孔存储库中加载数据集：</p>
+<p>首先，从HuggingFace存储库中加载数据集：</p>
 <div class="highlight"><pre><span></span><code><span class="kn">from</span> <span class="nn">mindnlp</span> <span class="kn">import</span> <span class="n">load_dataset</span>
 
 <span class="n">imdb_ds</span> <span class="o">=</span> <span class="n">load_dataset</span><span class="p">(</span><span class="s1">&#39;imdb&#39;</span><span class="p">,</span> <span class="n">split</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;train&#39;</span><span class="p">,</span> <span class="s1">&#39;test&#39;</span><span class="p">])</span>
@@ -6356,8 +6356,8 @@
 <span class="n">imdb_test</span> <span class="o">=</span> <span class="n">imdb_ds</span><span class="p">[</span><span class="s1">&#39;test&#39;</span><span class="p">]</span>
 </code></pre></div>
 <p><code>load_dataset</code> 接受一个数据集名称，用于从拥抱面积存储库中远程获取，以及指向存储在磁盘上的数据集的本地路径。</p>
-<p>这 <code>split</code> 参数告知 <code>load_dataset</code> 获取数据集的哪个分配。 在这里，它将获取培训数据集（“火车”）和测试数据集（“测试”）。</p>
-<p>要进一步将培训数据集分为培训和验证数据集，请使用 <code>.split()</code> 方法。 数字列表指定了每个拆分的数据条目的比例。</p>
+<p>这 <code>split</code> 参数告知 <code>load_dataset</code> 获取数据集的哪个分配。 在这里，它将获取train数据集（“火车”）和测试数据集（“测试”）。</p>
+<p>要进一步将train数据集分为train和验证数据集，请使用 <code>.split()</code> 方法。 数字列表指定了每个拆分的数据条目的比例。</p>
 <div class="highlight"><pre><span></span><code><span class="n">imdb_train</span><span class="p">,</span> <span class="n">imdb_val</span> <span class="o">=</span> <span class="n">imdb_train</span><span class="o">.</span><span class="n">split</span><span class="p">([</span><span class="mf">0.7</span><span class="p">,</span> <span class="mf">0.3</span><span class="p">])</span>
 </code></pre></div>
 <p>要查看数据集的外观，请从数据集的迭代器中获取第一个元素：</p>
@@ -6370,7 +6370,7 @@
 <span class="n">tokenizer</span> <span class="o">=</span> <span class="n">AutoTokenizer</span><span class="o">.</span><span class="n">from_pretrained</span><span class="p">(</span><span class="s1">&#39;bert-base-cased&#39;</span><span class="p">)</span>
 </code></pre></div>
 <p>要获取相应的令牌，您可以提供模型名称，在这种情况下 <code>'bert-base-cased'</code>，到 <code>AutoTokenizer.from_pretrained</code> 方法。 然后，它将下载您的模型所需的令牌。</p>
-<h2 id="_4">与本地思维孔的预处理<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<h2 id="mindspore">与原生MindSpore的预处理<a class="headerlink" href="#mindspore" title="Permanent link">&para;</a></h2>
 <p>为了用本机思维孔预处理数据集，我们编写一个函数 <code>process_dataset</code> 这包括关键步骤：</p>
 <div class="highlight"><pre><span></span><code><span class="kn">import</span> <span class="nn">mindspore</span>
 <span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
@@ -6408,14 +6408,14 @@
     <span class="k">return</span> <span class="n">dataset</span>
 </code></pre></div>
 <p>这是每个步骤的分解：
-*####令牌化
-第一步是令牌化。 令牌化将原始文本转换为可以馈入机器学习模型的格式。</p>
+*####Tokenization
+第一步是Tokenization。 Tokenization将原始文本转换为可以馈入机器学习模型的格式。</p>
 <p>定义令牌函数以处理数据集的每一行中的文本。
 <div class="highlight"><pre><span></span><code><span class="k">def</span> <span class="nf">tokenize</span><span class="p">(</span><span class="n">text</span><span class="p">):</span>
     <span class="n">tokenized</span> <span class="o">=</span> <span class="n">tokenizer</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="n">truncation</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">max_length</span><span class="o">=</span><span class="n">max_seq_len</span><span class="p">)</span>
     <span class="k">return</span> <span class="n">tokenized</span><span class="p">[</span><span class="s1">&#39;input_ids&#39;</span><span class="p">],</span> <span class="n">tokenized</span><span class="p">[</span><span class="s1">&#39;token_type_ids&#39;</span><span class="p">],</span> <span class="n">tokenized</span><span class="p">[</span><span class="s1">&#39;attention_mask&#39;</span><span class="p">]</span>
 </code></pre></div></p>
-<p>然后利用 <code>GeneratorDataset.map</code> 来自Mindspore的API将令牌化操作映射到数据集中的所有行。 这将采用 <code>"text"</code> 列作为输入，将其引起并返回 <code>"input_ids"</code>，，，，<code>"token_type_ids"</code> 和 <code>"attention_mask"</code> 列作为输出。
+<p>然后利用 <code>GeneratorDataset.map</code> 来自Mindspore的API将Tokenization操作映射到数据集中的所有行。 这将采用 <code>"text"</code> 列作为输入，将其引起并返回 <code>"input_ids"</code>，<code>"token_type_ids"</code> 和 <code>"attention_mask"</code> 列作为输出。
 <div class="highlight"><pre><span></span><code><span class="n">dataset</span> <span class="o">=</span> <span class="n">dataset</span><span class="o">.</span><span class="n">map</span><span class="p">(</span><span class="n">operations</span><span class="o">=</span><span class="p">[</span><span class="n">tokenize</span><span class="p">],</span> <span class="n">input_columns</span><span class="o">=</span><span class="s2">&quot;text&quot;</span><span class="p">,</span> <span class="n">output_columns</span><span class="o">=</span><span class="p">[</span><span class="s1">&#39;input_ids&#39;</span><span class="p">,</span> <span class="s1">&#39;token_type_ids&#39;</span><span class="p">,</span> <span class="s1">&#39;attention_mask&#39;</span><span class="p">])</span>
 </code></pre></div></p>
 <p>*####类型铸造
@@ -6441,7 +6441,7 @@
     <span class="n">dataset</span> <span class="o">=</span> <span class="n">dataset</span><span class="o">.</span><span class="n">batch</span><span class="p">(</span><span class="n">batch_size</span><span class="p">)</span>
 </code></pre></div></p>
 <p>*####取子集</p>
-<p>有时，您可能需要在较小的数据子集上进行训练或测试，例如调试培训过程。 为此，请使用 <code>take</code> 方法，选择指定的编号（ <code>take_len</code> 数据集的条目：
+<p>有时，您可能需要在较小的数据子集上进行训练或测试，例如调试train过程。 为此，请使用 <code>take</code> 方法，选择指定的编号（ <code>take_len</code> 数据集的条目：
 <div class="highlight"><pre><span></span><code><span class="n">dataset</span> <span class="o">=</span> <span class="n">dataset</span><span class="o">.</span><span class="n">take</span><span class="p">(</span><span class="n">take_len</span><span class="p">)</span>
 </code></pre></div></p>
 <p>现在，将预处理功能应用于数据集：</p>
@@ -6452,7 +6452,7 @@
 <div class="highlight"><pre><span></span><code><span class="nb">print</span><span class="p">(</span><span class="nb">next</span><span class="p">(</span><span class="n">processed_dataset_train</span><span class="o">.</span><span class="n">create_dict_iterator</span><span class="p">()))</span>
 </code></pre></div>
 <h2 id="basemapfunction">与 <code>BaseMapFunction</code><a class="headerlink" href="#basemapfunction" title="Permanent link">&para;</a></h2>
-<p>预处理数据集进行培训的另一种方法是通过 <code>BaseMapFunction</code> 来自Mindnlp。 您可以修改 <code>BaseMapFunction</code> 创建您的映射功能：</p>
+<p>预处理数据集进行train的另一种方法是通过 <code>BaseMapFunction</code> 来自Mindnlp。 您可以修改 <code>BaseMapFunction</code> 创建您的映射功能：</p>
 <div class="highlight"><pre><span></span><code><span class="kn">import</span> <span class="nn">mindspore</span> <span class="k">as</span> <span class="nn">ms</span>
 <span class="kn">from</span> <span class="nn">mindnlp.dataset</span> <span class="kn">import</span> <span class="n">BaseMapFunction</span>
 
